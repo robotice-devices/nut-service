@@ -28,7 +28,7 @@ Usage
 
 .. code-block:: bash
 
-	# search first available ups on localhost
+    # search first available ups on localhost
     python driver.py
 
     python driver.py 127.0.0.1 eaton5e
